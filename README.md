@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Python, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anand-khetpal](https://github.com/anand-khetpal)
-
 - 📫 How to reach me **anandkhetpal333@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
